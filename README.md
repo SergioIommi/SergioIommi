@@ -1,15 +1,14 @@
-# Profile
+# Web-Profile
 - https://www.linkedin.com/in/sergioiommi/
 - https://www.kaggle.com/sergioiommi
 - https://www.youtube.com/@SergioIommi
 
 # Tech Stack:
-- Languages: Python (main focus), R, MATLAB, bash
-- OS/Dev/Misc. Tools/Software: Linux, git, Poetry, Docker, Excel/VBA
-- Database/Datastore/API/IO: MongoDB, Parquet, HDF5, asyncio, aiohttp
-- Data Science/Scientific Computing Stack: pandas, numpy, scipy, scikit-learn, statsmodels, optuna
-- Parallel/Distributed/Cloud/GPU Computing: Google Cloud, ray, Dask.distributed, Dask DataFrame, ML training/hyperparam
-optimization on Multi-CPU/Multi-GPU clusters (NVIDIA RAPIDS: cuDF/Dask-cuDF, Dask-CUDA, cuML/Dask-cuML)
+- Languages: Python (main focus), R, MATLAB, Bash
+- OS/Dev/Misc. Tools/Software: Linux, Git, Poetry, Docker, Excel/VBA
+- Database/Datastore/API/IO: MongoDB, PyMongo, Parquet, HDF5, asyncio, aiohttp
+- Data Science/Scientific Computing Stack: Pandas, Numpy, Scipy, Scikit-Learn, StatsModels, Optuna
+- Parallel/Distributed/Cloud/GPU Computing: Google Cloud, Ray, Dask.distributed, Dask DataFrame, ML training/hyperparam optimization on Multi-CPU/Multi-GPU clusters (NVIDIA RAPIDS: cuDF/Dask-cuDF, Dask-CUDA, cuML/Dask-cuML)
 - Data Analytics Apps/Dashboards/Front-end: Plotly Dash
 - Quantitative Finance: Quantlib
 
