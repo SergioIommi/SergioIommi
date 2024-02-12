@@ -6,7 +6,7 @@
 # Tech Stack:
 - Languages: Python (main focus), R, MATLAB, Bash
 - OS/Dev/Misc. Tools/Software: Linux, Git, Poetry, Docker, Excel/VBA
-- Database/Datastore/API/IO: MongoDB, PyMongo, Parquet, HDF5, asyncio, aiohttp
+- Database/Datastore/API/IO: MongoDB, PyMongo, Parquet, HDF5, RESTful APIs, asyncio, aiohttp
 - Data Science/Scientific Computing Stack: Pandas, Numpy, Scipy, Scikit-Learn, StatsModels, Optuna
 - Parallel/Distributed/Cloud/GPU Computing: Google Cloud, Ray, Dask.distributed, Dask DataFrame, ML training/hyperparam optimization on Multi-CPU/Multi-GPU clusters (NVIDIA RAPIDS: cuDF/Dask-cuDF, Dask-CUDA, cuML/Dask-cuML)
 - Data Analytics Apps/Dashboards/Front-end: Plotly Dash
